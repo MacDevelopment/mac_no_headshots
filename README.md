@@ -7,7 +7,7 @@ A lightweight FiveM resource that disables headshots for QBCore servers, prevent
 - **Completely disables headshots** - No more one-shot kills
 - **Lightweight & efficient** - Minimal performance impact
 - **Automatic detection** - Handles player spawning, ped changes, and resource restarts
-- 🛠**Standalone** - No dependencies required
+- **Standalone** - No dependencies required
 - **QBCore compatible** - Integrates seamlessly with QBCore framework
 - **Plug & play** - Easy installation and setup
 
